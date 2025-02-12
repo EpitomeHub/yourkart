@@ -1,4 +1,4 @@
-YourKart - E-commerce Platform
+**YourKart - E-commerce Platform**
 
 YourKart is a fully functional E-commerce website built using React (Frontend) and Spring Boot + MongoDB (Backend). It supports OAuth login (Google, Facebook, Instagram), shopping cart, checkout with multiple payment options, and an Admin Dashboard to manage products and orders.
 
